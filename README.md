@@ -4,7 +4,7 @@
 ## Illustration of the proposed idea of **S**poof-aware one-class face anti-spoofing with **L**anguage **I**mage **P**retraining (SLIP).
 
 
-<img src="figures/idea.png" alt="plot" width="300"/>
+<img src="figures/idea.png" alt="plot" width="500"/>
 
 ## Architecture of SLIP
 ![plot](figures/framework.png)
