@@ -2,7 +2,7 @@
 ### SLIP: Spoof-aware one-class face anti-spoofing with Language Image Pretraining (AAAI '25)
 
 ## Illustration of the proposed idea of **S**poof-aware one-class face anti-spoofing with **L**anguage **I**mage **P**retraining (SLIP).
-![plot](figures/idea.png)
+![plot](figures/idea.png | width=300)
 
 ## Architecture of SLIP
 ![plot](figures/framework.png)
