@@ -13,7 +13,7 @@ Run `SLIP_train.py` to train SLIP
 Run `SLIP_test.py` to test SLIP
 
 ## Packages
-Run `pip install requirement.txt`
+Run `pip install requirements.txt`
 
 ## Citation
 
